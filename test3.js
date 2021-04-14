@@ -1,5 +1,3 @@
 function test2(){
-    console.log("hello");
+    console.log("branch 3 text");
     }
-    console.log("Hello from test 3")
-   console.log("Hello from test 7")
